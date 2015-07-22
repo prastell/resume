@@ -1,0 +1,27 @@
+body {
+	margin: 20px;
+}
+
+h1, h4 {
+	text-align: right;
+	margin: 0px;
+
+}
+
+h3 {
+	text-decoration: underline;
+}
+
+ul.position {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+ul.tightBullets {
+	margin-top: 0px;
+}
+
+li.jobTitle {
+	font-weight: bold;
+}
